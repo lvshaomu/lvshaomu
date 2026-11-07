@@ -15,3 +15,12 @@ free tiers, scheduled jobs that must survive unattended nights, and a messaging 
 
 Free browser-only tools (nothing uploaded, works offline):
 <https://csvtriage.com/box/>
+
+### 中文支持 / Chinese readers
+
+这些配方也整理成了中文可购买版本，支持支付宝/微信付款：
+
+- 爱发电主页：<https://afdian.com/a/lvshaomu>
+- LLM Ops Cookbook（30 篇配方）· ¥99
+- AI Agents in Production（24 篇）· ¥79
+- Prompt Pack for Developers（150 条提示词）· ¥49
